@@ -38,7 +38,6 @@ public class Driver extends Application {
     }
 
     public static void main(String[] args) {
-        new Song();
         launch(args);
     }
 
