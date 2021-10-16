@@ -1,11 +1,6 @@
 package duck;
 
 import java.io.BufferedInputStream;
-import java.io.File;
-import javafx.scene.media.Media;
-import javafx.scene.media.MediaPlayer;
-import java.io.File;
-import java.nio.file.Path;
 import javax.sound.sampled.AudioInputStream;
 import javax.sound.sampled.AudioSystem;
 import javax.sound.sampled.Clip;

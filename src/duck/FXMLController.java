@@ -72,7 +72,7 @@ public class FXMLController implements Initializable {
             public void run() {
                 new Song();
             }
-        }, 0, 24500);
+        }, 0, 12100);
     }
 
 }
